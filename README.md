@@ -46,3 +46,5 @@ The YOLOv8 architecture, combined with FSP loss, demonstrates superior segmentat
 
 # kaggle link:
 https://www.kaggle.com/code/janntulmawa/deep-learning-based-segmentation
+https://www.kaggle.com/code/janntulmawa/yolov8-detection
+
